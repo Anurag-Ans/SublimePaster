@@ -1,6 +1,6 @@
 [
-	{
-		"keys": ["ctrl+alt+p"], 
-		"command": "paster"
-	}
+    {
+        "keys": ["ctrl+c+l"], 
+        "command": "paster"
+    }
 ]
